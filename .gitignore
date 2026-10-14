@@ -1,0 +1,5 @@
+# Data - course-provided. Delete these lines if you may redistribute it.
+data/data.csv
+data/column_description.csv
+
+.DS_Store
