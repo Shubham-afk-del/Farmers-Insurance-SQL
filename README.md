@@ -200,6 +200,10 @@ under the connection's Advanced options and an absolute path to `data.csv` in
 | `data/` | Where `data.csv` and `column_description.csv` go (not committed) |
 | `.gitignore` | Keeps the course data and `.DS_Store` out of git |
 
+## License
+
+My code and analysis here are under the [MIT license](LICENSE). The course dataset and the original case-study brief, including its question text, belong to upGrad and IIIT Bangalore and are not covered by it.
+
 ---
 
 **Shubham Kumar Singh**, MSc Artificial Intelligence and Computer Science, Northeastern University London
